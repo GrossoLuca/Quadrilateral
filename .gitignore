@@ -5,6 +5,7 @@
 
 *
 !*.md
+!*.h
 !*.cpp
 !*.c
 !.gitignore
